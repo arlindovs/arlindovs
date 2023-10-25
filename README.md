@@ -1,7 +1,7 @@
 Olá, sou Arlindo Silva
 
-- 🔭 Trabalho com Tecnologia
-- 🌱 Estudando Angular
+- 🔭 Respirando Tecnologia
+- 🌱 Estudando no momento Angular
 - 📫 contacte-me no email: arlindovicente@gmail.com
 
 <div align="center">
