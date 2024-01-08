@@ -62,7 +62,7 @@ Starting now with Angular, but with a good amount of database knowledge, I am pa
   <div> 
   <a href = "mailto:arlindovicente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arlindo-silva-45a77526/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/rocketseat" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/F9bg7EyzZV" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 </div>
 
