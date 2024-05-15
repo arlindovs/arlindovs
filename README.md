@@ -17,7 +17,7 @@ Starting now with Angular, but with a good amount of database knowledge, I am pa
 
 ## My Skills
 
-#### Studying in this moment:
+#### Knowledge in:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -27,6 +27,10 @@ Starting now with Angular, but with a good amount of database knowledge, I am pa
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
+
+#### Studying in this moment:
+
+
 
 #### Databases:
 
