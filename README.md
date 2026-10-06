@@ -3,13 +3,23 @@
 <div align="center">
   <h2>Hi, I'm Arlindo Silva! 👋</h2>
   <p>
-    <b>Full Stack Developer | Database Specialist</b>
+    <b>Full Stack Developer | SaaS Builder | Database Specialist</b>
   </p>
   <p>
-    I ❤️ solving big challenges using technology. <br>
-    With a strong background in <b>Databases</b> and <b>Backend</b> development, I am currently expanding my expertise in <b>Angular</b> and <b>AI</b> to build high-quality, end-to-end solutions.
+    I ❤️ solving big challenges using technology. 🇧🇷 <br>
+    I build and consult on <b>SaaS products for the Brazilian market</b>, from product architecture to production, with a strong background in <b>Databases</b> and <b>Backend</b> development.
   </p>
 </div>
+
+<br>
+
+## 🚀 What I'm working on
+
+- 🧾 **Fiscal & tax compliance**: product registration, tax intelligence and electronic invoicing (NF-e / NFC-e) for Brazilian businesses
+- 💳 **Payment integrations**: PIX, boleto, payment links and in-person card payments (TEF)
+- 🛒 **PDV / ERP systems**: multitenant point-of-sale and sales order management
+- ☁️ **Cloudflare-native infrastructure**: Workers, Pages, D1, R2, KV, Queues, Vectorize and Workers AI
+- 🤖 **AI applied to real products**: assistants, automation and agentic workflows
 
 <br>
 
@@ -20,6 +30,8 @@
   </a>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlindovs&theme=dark&hide_border=true">
+  <br>
+  <img width="100%" src="https://raw.githubusercontent.com/arlindovs/arlindovs/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -64,6 +76,9 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
 
 ### 🗄️ Database
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)&nbsp;
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)&nbsp;
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
@@ -74,6 +89,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ### ☁️ Cloud & DevOps
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)&nbsp;
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
