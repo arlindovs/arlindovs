@@ -30,8 +30,6 @@
   </a>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlindovs&theme=dark&hide_border=true">
-  <br>
-  <img width="100%" src="https://raw.githubusercontent.com/arlindovs/arlindovs/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </div>
 
 ## 🛠️ Tech Stack
